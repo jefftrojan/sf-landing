@@ -13,6 +13,10 @@ function Footer() {
             <h2 className='font-bold mb-[20px]'>Resources</h2>
             <ul className='grid grid-col gap-[20px] text-sm'>
                 <li>About</li>
+                <li>Careers</li>
+                <li>Support</li>
+
+
                
             </ul>
         </div>
